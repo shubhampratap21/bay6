@@ -22,3 +22,5 @@ BayMax6 is a hands-on project aimed at learning how to build a multimodal chat a
 - Change Theme.
 - Separate Frontend and Backend Code for Better Deployment.
 ![WhatsApp Image 2024-11-09 at 20 44 44_c6c30300](https://github.com/user-attachments/assets/9131d7eb-c111-433c-8154-ccfa3f19a267)
+![WhatsApp Image 2024-11-09 at 20 50 40_f30400e8](https://github.com/user-attachments/assets/2abbcdb7-231d-43b8-90a9-97d72b6bfa53)
+![WhatsApp Image 2024-11-09 at 20 34 31_e7809f79](https://github.com/user-attachments/assets/9114145e-3bcd-49cd-bf48-ce99a45ce99f)
